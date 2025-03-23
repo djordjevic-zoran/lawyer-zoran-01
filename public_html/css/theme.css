@@ -9490,4 +9490,14 @@ header .navbar-nav .nav-item .nav-link {
     header .navbar-nav .nav-item .nav-link {
       padding: 0; } }
 
+.herro-section {
+  padding: 8.9rem 0 9rem;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: right top; }
+  .herro-section .herro-contnet {
+    background-color: rgba(255, 255, 255, 0.6); }
+    .herro-section .herro-contnet .herro-description {
+      margin-bottom: 5.9rem; }
+
 /*# sourceMappingURL=theme.css.map */
