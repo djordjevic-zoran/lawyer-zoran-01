@@ -9584,4 +9584,30 @@ header .navbar-nav .nav-item .nav-link {
       width: 100%;
       transition: 0.3s linear; }
 
+.info-section {
+  background-color: #11284B;
+  padding: 7.8rem 0 9.4rem; }
+  .info-section .info-section-title {
+    margin-bottom: 5.2rem; }
+  .info-section .info-data p, .info-section .info-data a {
+    color: #586C88;
+    text-decoration: none;
+    padding-left: 1rem; }
+
+footer {
+  padding: 2.8rem 0 2.7rem; }
+  footer .copy-right {
+    color: #586C88;
+    font-size: 1.2rem;
+    line-height: 2.5rem;
+    font-weight: 500; }
+  footer .social .social-icon {
+    color: #000;
+    text-decoration: none;
+    font-size: 2rem;
+    margin: 0 5px;
+    transition: 0.5s linear; }
+    footer .social .social-icon:hover {
+      transform: rotate(360deg); }
+
 /*# sourceMappingURL=theme.css.map */
