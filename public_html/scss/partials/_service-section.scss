@@ -1,4 +1,6 @@
 
+$dark-servoce-bg: $dark-blue;
+
 .services-section{
     padding: 11rem 0 11.3rem;
     .services-section-title{
@@ -8,8 +10,24 @@
         margin-bottom: 2rem;
         .services-item-title{
             color: #000;
+            padding-left: 1.2rem;
             &:hover{
                 color: $blue;
+            }
+        }
+    }
+    &.dark-services-section{
+        background-color: $dark-servoce-bg;
+        .services-section-title{
+            color: $primary;
+            text-transform: capitalize;
+        }
+        .services-item{
+            .services-item-title{
+                color: #fff;
+                &:hover{
+                    color: $primary;
+                }
             }
         }
     }
