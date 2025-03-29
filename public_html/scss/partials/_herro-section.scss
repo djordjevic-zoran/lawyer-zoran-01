@@ -7,6 +7,22 @@
     background-position: right top;
     .herro-contnet{
         background-color: rgba(#fff, 0.6);
+        .herro-info{
+            margin-bottom: 2rem;
+            a{
+                line-height: 2rem;
+                font-size: 1.4rem;
+            }
+            .separator{
+                line-height: 2rem;
+                font-size: 1.4rem;
+            }
+            .herro-date{
+                font-size: 1.4rem;
+            line-height: 2.4rem;
+            }
+            
+        }
         .herro-description{
             margin-bottom: 5.9rem;
         }

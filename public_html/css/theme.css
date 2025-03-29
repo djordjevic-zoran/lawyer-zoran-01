@@ -9500,6 +9500,17 @@ header .navbar-nav .nav-item .nav-link {
   background-position: right top; }
   .herro-section .herro-contnet {
     background-color: rgba(255, 255, 255, 0.6); }
+    .herro-section .herro-contnet .herro-info {
+      margin-bottom: 2rem; }
+      .herro-section .herro-contnet .herro-info a {
+        line-height: 2rem;
+        font-size: 1.4rem; }
+      .herro-section .herro-contnet .herro-info .separator {
+        line-height: 2rem;
+        font-size: 1.4rem; }
+      .herro-section .herro-contnet .herro-info .herro-date {
+        font-size: 1.4rem;
+        line-height: 2.4rem; }
     .herro-section .herro-contnet .herro-description {
       margin-bottom: 5.9rem; }
 
@@ -9745,5 +9756,10 @@ footer {
         width: 100%;
         display: block;
         transition: 0.3s linear; }
+
+.single-news-contant {
+  padding: 8.1rem 0 13.5rem; }
+  .single-news-contant .single-news-data {
+    margin-bottom: 5.7rem; }
 
 /*# sourceMappingURL=theme.css.map */
