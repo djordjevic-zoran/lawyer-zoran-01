@@ -5,6 +5,10 @@
     background-repeat: no-repeat;
     background-size: auto 100%;
     background-position: right top;
+    
+    &.contact-herro{
+        padding: 15.3rem 0 15.4rem;
+    }
     .herro-contnet{
         background-color: rgba(#fff, 0.6);
         .herro-info{
@@ -25,6 +29,13 @@
         }
         .herro-description{
             margin-bottom: 5.9rem;
+        }
+        .herro-info-data{
+            padding-top: 1.3rem;
+            a, p{
+                color: #586C88;
+                text-decoration: none;
+            }
         }
     }
 }

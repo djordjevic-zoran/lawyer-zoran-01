@@ -1,0 +1,24 @@
+
+.contact-form-section{
+    padding: 11.4rem 0 10.9rem;
+    .contact-form-section-title{
+        margin-bottom: 3.7rem;
+    }
+    .contact-form{
+        .form-group{
+            margin-bottom: 2.2rem;
+            .form-control{
+                color: #586C88;
+                background-color: #F6F6F6;
+                line-height: 5rem;
+            }
+        }
+    }
+}
+
+.contact-map{
+    iframe{
+        width: 100%;
+        height: 400px;
+    }
+}
